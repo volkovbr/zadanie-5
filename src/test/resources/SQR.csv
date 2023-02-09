@@ -1,0 +1,3 @@
+test max square,100,10000,90
+test no square,50,99,0
+test one square,200,250,1
